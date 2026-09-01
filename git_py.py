@@ -1,7 +1,1 @@
-print("Hello Git!")
-
-print("Hello GitHub!!")
-
-print("Third commit!!!")
-
-print("Merge commit")
+print("deleting all lines and trying merge")
